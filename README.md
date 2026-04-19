@@ -74,6 +74,15 @@
 2. **结合工作学**：学到对应的知识点的时候，主动和日常工作结合起来，理解会更深刻，也不容易忘
 3. **定期自查**：每学完一个模块就用上面的自评方式检查一遍，达标了再进下一个阶段，不要赶进度
 4. **灵活调整**：如果碰到工作里需要用到的知识点可以提前学，不用严格按顺序来
+
+---
+## 📦 配套资源
+| 文档 | 内容说明 |
+|------|----------|
+| [docs/learning-resources.md](./docs/learning-resources.md) | 分阶段学习资源推荐，包含经典教材、公开课、习题，直接拿来就能用 |
+| [docs/career-mapping.md](./docs/career-mapping.md) | AI岗位能力匹配对照表，明确不同岗位需要学到什么程度、重点学哪些内容 |
+| [docs/learning-tips.md](./docs/learning-tips.md) | 学习技巧、避坑指南、常见问题解答，帮你少走弯路提升效率 |
+| [docs/role-specific.md](./docs/role-specific.md) | 不同角色专属学习路径，重点包含大模型测试工程师专属学习清单和进度跟踪模板 |
 ---
 ## 📄 License
 MIT License
